@@ -35,7 +35,7 @@
                                 $results = $value["name"];
                                 echo "<li><a href=\"#\"><b>$results</b></a></li>";
                             } else{
-                                echo "<li><a href=\"#\"><b>Login</b></a></li>";
+                                echo "<li><a href=\"#\"><b>LOGIN</b></a></li>";
                             }
                         }
 
@@ -46,7 +46,7 @@
                 </ul>
             </div>
 
-            </div><!-- /.navbar-collapse -->
+           
         </div>
     </nav>
 </body>
