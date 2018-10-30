@@ -1,0 +1,10 @@
+{
+	"user": [{
+		"user_id": "001",
+		"name": "user1",
+		"ID": "515370111111",
+		"gender": "male",
+		"born_year": "1997",
+		"is_active": "1"
+	}]
+}
